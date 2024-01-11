@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="990" src="https://media.licdn.com/dms/image/D4E12AQEFzdyK4YP1pg/article-cover_image-shrink_600_2000/0/1654591485204?e=2147483647&v=beta&t=J22hpqORfuZ6z1v35ktnH08tb79NyPZy-NTHlBDCzBg">
+<img align="right" alt="Coding" width="600" src="https://media1.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif?cid=ecf05e47d245bh710wgyj7urae68hjv4pluuqm6mocbmsml9&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 
 Hey I'm Muntaha AlQahtani
 =========================================================================================================================================
@@ -6,6 +6,9 @@ Web Developer & Designing
 -------------------------
 
 I 'have been learning to code for 5 years. Many programming languages I familiar with but I really found a passion for front-end development.
+<br/>
+<br/>
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/muntahaqahtani" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
@@ -22,6 +25,9 @@ I 'have been learning to code for 5 years. Many programming languages I familiar
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+
 
 * 🌍  I'm based in Riyadh, Saudi Arabia <br>
 * ✉️  You can contact me at [muntaha.qahtani@gmail.com](mailto:muntaha.qahtani@gmail.com) <br>
