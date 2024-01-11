@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="700" src="https://media1.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif?cid=ecf05e47xxummtqlhuvl0ngpiktowx9kck4nq62ljfkr37uk&ep=v1_gifs_related&rid=giphy.gif&ct=s">
+<img align="center" alt="Coding" width="990" height="350" src="https://inspgr.id/app/uploads/2020/05/illustration-bram-vanhaeren-new-feature-805x568.jpg">
 
 Hey I'm Muntaha AlQahtani
 =========================================================================================================================================
@@ -23,10 +23,7 @@ I 'have been learning to code for 5 years. Many programming languages I familiar
 
 
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 
 * 🌍  I'm based in Riyadh, Saudi Arabia <br>
@@ -40,6 +37,6 @@ I 'have been learning to code for 5 years. Many programming languages I familiar
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/muntahaqahtani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muntahaqahtani&stroke=ffffff&background=0f172a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/muntahaqahtani"><img src="https://github-readme-stats.vercel.app/api?username=muntahaqahtani&show_icons=true&hide=issues,&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=831843&hide_border=true&show_icons=true" alt="muntahaqahtani's GitHub stats" /></a>
 
-<a href="https://github.com/muntahaqahtani" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntahaqahtani&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/muntahaqahtani" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntahaqahtani&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=831843&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
