@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="990" height="350" src="https://inspgr.id/app/uploads/2020/05/illustration-bram-vanhaeren-new-feature-805x568.jpg">
+<img align="right" alt="Coding" width="600" src="https://www.learnviewpoint.com/wp-content/uploads/2020/03/Users_girl-600x556.png">
 
 Hey I'm Muntaha AlQahtani
 =========================================================================================================================================
@@ -37,6 +37,6 @@ I 'have been learning to code for 5 years. Many programming languages I familiar
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/muntahaqahtani"><img src="https://github-readme-stats.vercel.app/api?username=muntahaqahtani&show_icons=true&hide=issues,&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=831843&hide_border=true&show_icons=true" alt="muntahaqahtani's GitHub stats" /></a>
+<a href="http://www.github.com/muntahaqahtani"><img src="https://github-readme-stats.vercel.app/api?username=muntahaqahtani&show_icons=true&hide=issues,&title_color=6366f1&text_color=000000&icon_color=facc15&bg_color=ffffff&hide_border=true&show_icons=true" alt="muntahaqahtani's GitHub stats" /></a>
 
-<a href="https://github.com/muntahaqahtani" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntahaqahtani&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=831843&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/muntahaqahtani" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntahaqahtani&langs_count=10&title_color=6366f1&text_color=000000&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
