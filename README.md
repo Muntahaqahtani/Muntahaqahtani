@@ -30,11 +30,10 @@ I 'have been learning to code for 5 years. Many programming languages I familiar
 * ⚡  " We can do anything we want to if we stick to it long enough. " <br>
 
 
-
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/muntahaqahtani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muntahaqahtani&stroke=000000&background=ffffff&ring=facc15&fire=facc15&currStreakNum=000000&currStreakLabel=facc15&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+<a href="http://www.github.com/muntahaqahtani"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muntahaqahtani&stroke=ffffff&background=0f172a&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/muntahaqahtani" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntahaqahtani&langs_count=10&title_color=facc15&text_color=000000&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/muntahaqahtani" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntahaqahtani&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
