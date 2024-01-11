@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="600" src="https://media1.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif?cid=ecf05e47xhudyzbamt3ywx5s3jjd5mzjzhf8ixv0sxqap6q6&ep=v1_gifs_related&rid=giphy.gif&ct=s">
+<img align="center" alt="Coding" width="990" src="https://www.salesforceben.com/wp-content/uploads/2022/11/1119736_SalesforceDeveloperBlogGraphics4_072621-1-1536x585.jpg">
 
 Hey I'm Muntaha AlQahtani
 =========================================================================================================================================
