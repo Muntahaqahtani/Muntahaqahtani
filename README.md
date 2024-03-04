@@ -2,7 +2,7 @@
 
 Hey I'm Muntaha AlQahtani
 =========================================================================================================================================
-Web Developer & Designing
+Senior information System  
 -------------------------
 
 I 'have been learning to code for 5 years. Many programming languages I familiar with but I really found a passion for front-end development.
