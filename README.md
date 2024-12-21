@@ -2,7 +2,7 @@
 
 Hey I'm Muntaha AlQahtani
 =========================================================================================================================================
-Senior information System  
+Senior information Systems  
 -------------------------
 
 I 'have been learning to code for 5 years. Many programming languages I familiar with but I really found a passion for front-end development.
@@ -29,7 +29,7 @@ I 'have been learning to code for 5 years. Many programming languages I familiar
 * 🌍  I'm based in Riyadh, Saudi Arabia <br>
 * ✉️  You can contact me at [muntaha.qahtani@gmail.com](mailto:muntaha.qahtani@gmail.com) <br>
 * 🧠  I'm learning Swift <br>
-* 🤝  I'm open to collaborating on website developments and design <br>
+* 🤝  I'm open to collaborating on website & app development and design <br>
 * ⚡  " We can do anything we want to if we stick to it long enough. " <br>
 
 
